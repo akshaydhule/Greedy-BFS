@@ -190,12 +190,12 @@ def main():
             f.write(signmat[i][j])
         f.write('\n')
     f.close()
-    
+'''    
     f = open('traverse_log.txt','w')
     f.close()
 
     f = open('trace_state.txt','w')
     f.close()
-
+'''
 main()
 
